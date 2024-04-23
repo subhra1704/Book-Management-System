@@ -1,0 +1,9 @@
+{
+    "DATABASE_URL":"mongodb://localhost:27017/{DataBaseName}",
+    "ACCESS_JWT_KEY"  : "bookManagement[*&*()]secretKey*&^%$#@!123123123",
+    "REFRESH_JWT_KEY" : "bookManagement[*&*()]REFRESHkEY*&^%$#@!321321321",
+    "EXPIRY_JWT":"1d",
+    "EXPIRY_REFRESH_JWT" : "1d",
+    "PORT":3000
+
+}
